@@ -1,3 +1,3 @@
 # turbo-archer
 
-Finna make a bunch of unauthorized changes.
+Messing with the AUTHOR/COMMITTER vars again.
